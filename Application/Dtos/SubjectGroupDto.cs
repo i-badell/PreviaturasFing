@@ -1,0 +1,9 @@
+﻿namespace PreviaturasFing.Application.Dtos
+{
+    public class SubjectGroupDto
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+    }
+}
